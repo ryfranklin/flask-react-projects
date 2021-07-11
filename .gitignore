@@ -27,3 +27,5 @@ htmlcov/
 
 # python
 __pycache__
+
+/node-modules
